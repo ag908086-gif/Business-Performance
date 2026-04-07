@@ -11,7 +11,8 @@ This project presents a Power BI dashboard that analyzes:
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
-![Uploading Screenshot 2026-04-07 130707.png…]()
+<img width="1416" height="798" alt="Screenshot 2026-04-07 130707" src="https://github.com/user-attachments/assets/ac672c2c-e589-4a7b-b557-b70cb574c8de" />
+
 
 
 
