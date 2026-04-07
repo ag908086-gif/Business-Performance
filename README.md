@@ -11,7 +11,8 @@ This project presents a Power BI dashboard that analyzes:
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
-![Uploading image.png…]()
+![Uploading Screenshot 2026-04-07 130707.png…]()
+
 
 
 ## Key Metrics
